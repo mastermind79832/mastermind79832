@@ -20,11 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityaajith_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaajith_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya ajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya ajith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-ajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya ajith" height="30" width="40" /></a>
 <a href="https://fb.com/aditya ajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya ajith" height="30" width="40" /></a>
 <a href="https://instagram.com/imastermind_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imastermind_" height="30" width="40" /></a>
 <a href="https://medium.com/@adityaeajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityaeajith" height="30" width="40" /></a>
-<a href="https://discord.gg/Aditya E Ajith#2750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aditya E Ajith#2750" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
