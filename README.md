@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Ajith</h1>
 <h3 align="center">A passionate Game developer / programmer</h3>
 
-- 🔭 I’m currently working on [Deviloper](https://github.com/mastermind79832/Deviloper-Unity2D)
-
-- 🌱 I’m currently learning **C++ ,UNITY**
+- 🔭 I’m currently working at OASISMETAGAMES
 
 - 👨‍💻 All of my projects are available at [https://github.com/mastermind79832](https://github.com/mastermind79832)
 
