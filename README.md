@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Ajith</h1>
 <h3 align="center">A passionate Game developer / programmer</h3>
 
-- 🔭 I’m currently working on [DecaClimb](https://github.com/mastermind79832/DecaClimb-Unity)
+- 🔭 I’m currently working on [DecaClimb](https://github.com/mastermind79832/Inktober)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mastermind79832](https://github.com/mastermind79832)
 
